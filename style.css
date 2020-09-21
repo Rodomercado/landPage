@@ -490,7 +490,7 @@ header #toggle:after {
     right: 50px;
     width: 400px;
     height: 100vh;
-    background: url(assets/red.jpg);
+    background: url(red.jpg);
     z-index: 0;
     display: grid;
     place-items: center;
